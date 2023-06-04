@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dev-shkelz
-- 👀 I’m interested in Front-End
+- 👋 Hi from @dev-shkelz
+- 👀 I’m a Junior Front-End developer
 - 🌱 I’m currently learning Front-End at Creative Hub Kosovo
+-     (Html, Css(Scss), JavaScript, React)
 - 💞️ I’m looking to evolve in my new career
 - 📫 How to reach me: shkelzim23@outlook.com
 
