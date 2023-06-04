@@ -1,5 +1,5 @@
 - 👋 Hi from @dev-shkelz
-- 👀 I’m a Junior Front-End developer
+- 👀 I’m a junior Front-End developer
 - 🌱 I’m currently learning Front-End at Creative Hub Kosovo
 -     (Html, Css(Scss), JavaScript, React)
 - 💞️ I’m looking to evolve in my new career
