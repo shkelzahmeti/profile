@@ -2,7 +2,7 @@
 - 👀 I’m a junior Front-End developer
 - 🌱 I’m currently learning Front-End at Creative Hub Kosovo
 -     (Html, Css(Scss), JavaScript, React)
-- 💞️ I’m looking to evolve in my new career
+- 💡 My mission is to become the best
 - 📫 How to reach me: shkelzim23@outlook.com
 
 <!---
