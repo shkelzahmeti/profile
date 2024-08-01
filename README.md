@@ -1,9 +1,10 @@
 - 👋 Hi from @dev-shkelz
-- 👀 I’m a junior Front-End developer
-- 🌱 I’m currently learning Front-End at Creative Hub Kosovo:
--     Html, Css(Scss), JavaScript, React
-- 💡 My mission is to elevate my skills to a level that can't be ignored
-- 📫 How to reach me: shkelzim23@outlook.com
+- 👀 I’m a React Developer
+- 🌱 I’ve finished the Front-End Academy at Creative Hub Kosovo:
+-     Html, Css(Scss), JavaScript, and React(main focus).
+- 💡 My mission is to surpass my yesterday's coding skills
+- 📫 How to reach me: imshkelz@gmail.com
+- https://www.linkedin.com/in/shkelzahmeti
 
 <!---
 dev-shkelz/dev-shkelz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
