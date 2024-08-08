@@ -8,7 +8,7 @@
 
 - Check out my projects:
 
-- React site:
+- React site: https://first-react-project-ls03.onrender.com
 - Dynamic site: https://dynamic-site-javascript-ol5u.onrender.com
 - Portfolio: https://shkelz.onrender.com 
 - Static site: https://creativehub-217y.onrender.com/
