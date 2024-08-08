@@ -6,6 +6,9 @@
 - 📫 How to reach me: imshkelz@gmail.com
 - https://www.linkedin.com/in/shkelzahmeti
 
+- Check out my projects:
+- https://dynamic-site-javascript-ol5u.onrender.com
+
 <!---
 dev-shkelz/dev-shkelz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
