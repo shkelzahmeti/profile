@@ -1,4 +1,4 @@
-- 👋 Hi from @dev-shkelz
+- 👋 <Hi/> from Shkelz
 - 👀 I’m a React Developer
 - 🌱 I’ve finished the Front-End Academy at Creative Hub Kosovo:
 -     Html, Css(Scss), JavaScript, and React(main focus).
