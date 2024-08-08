@@ -7,8 +7,14 @@
 - https://www.linkedin.com/in/shkelzahmeti
 
 - Check out my projects:
-- https://dynamic-site-javascript-ol5u.onrender.com
 
+- React site:
+- Portfolio: https://shkelz.onrender.com 
+- Dynamic site: https://dynamic-site-javascript-ol5u.onrender.com
+- Static site: https://creativehub-217y.onrender.com/
+
+- More about me: https://www.youtube.com/watch?v=g4h76QoNQfE
+  
 <!---
 dev-shkelz/dev-shkelz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
